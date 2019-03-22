@@ -12,15 +12,15 @@
   display: none;
 }
 
-#wall .parent #tag-4 {
+div#wall div.parent #tag-4 {
   display: none;
 }
 
-#wall .parent #tag-5 .slick {
+div#wall div.parent div#tag-5 div.slick {
   display: none;
 }
 
-div#wall div.parent div#tag-6 {
+div#wall div.parent div:last-child div#tag-6 {
   display: none;
 }
 
